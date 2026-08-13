@@ -19,7 +19,7 @@ VALID_PASSWORD = "test_password_123"
 # In-memory leads database (simulates a database)
 leads_db = {
     "LEAD001": {
-        "id": "LEAD001",
+        "id": "HCAP",
         "lead_source": "HCAP",
         "rep_first_name": "John",
         "rep_last_name": "Smith",
@@ -35,7 +35,7 @@ leads_db = {
         "created_at": "2024-01-10T08:00:00Z"
     },
     "LEAD003": {
-        "id": "LEAD003",
+        "id": "JTF",
         "lead_source": "JTF",
         "rep_first_name": "Michael",
         "rep_last_name": "Davis",
@@ -51,7 +51,7 @@ leads_db = {
         "created_at": "2024-01-15T10:15:00Z"
     },
     "LEAD005": {
-        "id": "LEAD005",
+        "id": "LOUD",
         "lead_source": "LOUD",
         "rep_first_name": "Robert",
         "rep_last_name": "Wilson",
