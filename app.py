@@ -36,7 +36,7 @@ leads_db = {
     },
     "LEAD002": {
         "id": "LEAD002",
-        "lead_source": "HCAP",
+        "lead_source": "ABC",
         "rep_first_name": "Sarah",
         "rep_last_name": "Johnson",
         "rep_number": "REP002",
@@ -68,7 +68,7 @@ leads_db = {
     },
     "LEAD004": {
         "id": "LEAD004",
-        "lead_source": "JTF",
+        "lead_source": "XYZ",
         "rep_first_name": "Emily",
         "rep_last_name": "Chen",
         "rep_number": "REP004",
@@ -100,7 +100,7 @@ leads_db = {
     },
     "LEAD006": {
         "id": "LEAD006",
-        "lead_source": "LOUD",
+        "lead_source": "LOUD1",
         "rep_first_name": "Lisa",
         "rep_last_name": "Martinez",
         "rep_number": "REP006",
