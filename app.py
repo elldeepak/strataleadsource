@@ -34,22 +34,6 @@ leads_db = {
         "email": "john.smith@hcapgroup.com",
         "created_at": "2024-01-10T08:00:00Z"
     },
-    "LEAD002": {
-        "id": "LEAD002",
-        "lead_source": "ABC",
-        "rep_first_name": "Sarah",
-        "rep_last_name": "Johnson",
-        "rep_number": "REP002",
-        "rep_street_address": "456 Park Avenue, Floor 15",
-        "company_name": "HCAP Capital Partners",
-        "city": "New York",
-        "state": "NY",
-        "zip": "10022",
-        "phone": "(212) 555-2001",
-        "fax": "(212) 555-2002",
-        "email": "sarah.johnson@hcapgroup.com",
-        "created_at": "2024-01-12T09:30:00Z"
-    },
     "LEAD003": {
         "id": "LEAD003",
         "lead_source": "JTF",
@@ -66,22 +50,6 @@ leads_db = {
         "email": "michael.davis@jtfventures.com",
         "created_at": "2024-01-15T10:15:00Z"
     },
-    "LEAD004": {
-        "id": "LEAD004",
-        "lead_source": "XYZ",
-        "rep_first_name": "Emily",
-        "rep_last_name": "Chen",
-        "rep_number": "REP004",
-        "rep_street_address": "321 Geary Street, Suite 300",
-        "company_name": "JTF Capital Management",
-        "city": "San Francisco",
-        "state": "CA",
-        "zip": "94108",
-        "phone": "(415) 555-4001",
-        "fax": "(415) 555-4002",
-        "email": "emily.chen@jtfventures.com",
-        "created_at": "2024-01-18T11:45:00Z"
-    },
     "LEAD005": {
         "id": "LEAD005",
         "lead_source": "LOUD",
@@ -97,23 +65,7 @@ leads_db = {
         "fax": "(312) 555-5002",
         "email": "robert.wilson@loudinvest.com",
         "created_at": "2024-01-20T13:00:00Z"
-    },
-    "LEAD006": {
-        "id": "LEAD006",
-        "lead_source": "LOUD1",
-        "rep_first_name": "Lisa",
-        "rep_last_name": "Martinez",
-        "rep_number": "REP006",
-        "rep_street_address": "888 South Wabash Avenue, Suite 500",
-        "company_name": "LOUD Capital Group",
-        "city": "Chicago",
-        "state": "IL",
-        "zip": "60605",
-        "phone": "(312) 555-6001",
-        "fax": "(312) 555-6002",
-        "email": "lisa.martinez@loudinvest.com",
-        "created_at": "2024-01-22T14:30:00Z"
-    }
+    }    
 }
 
 def check_auth(username, password):
