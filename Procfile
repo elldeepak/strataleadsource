@@ -1,1 +1,1 @@
-web: python test_auth_service.py
+web: python app.py
