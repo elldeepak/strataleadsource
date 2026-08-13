@@ -18,7 +18,7 @@ VALID_PASSWORD = "test_password_123"
 
 # In-memory leads database (simulates a database)
 leads_db = {
-    "LEAD001": {
+    "HCAP": {
         "id": "HCAP",
         "lead_source": "HCAP",
         "rep_first_name": "John",
@@ -34,7 +34,7 @@ leads_db = {
         "email": "john.smith@hcapgroup.com",
         "created_at": "2024-01-10T08:00:00Z"
     },
-    "LEAD003": {
+    "JTF": {
         "id": "JTF",
         "lead_source": "JTF",
         "rep_first_name": "Michael",
@@ -50,7 +50,7 @@ leads_db = {
         "email": "michael.davis@jtfventures.com",
         "created_at": "2024-01-15T10:15:00Z"
     },
-    "LEAD005": {
+    "LOUD": {
         "id": "LOUD",
         "lead_source": "LOUD",
         "rep_first_name": "Robert",
